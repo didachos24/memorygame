@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/memorygame/static/css/main.5cb0c22a.chunk.css",
+    "main.js": "/memorygame/static/js/main.cc3cac81.chunk.js",
+    "main.js.map": "/memorygame/static/js/main.cc3cac81.chunk.js.map",
+    "runtime~main.js": "/memorygame/static/js/runtime~main.d170bb03.js",
+    "runtime~main.js.map": "/memorygame/static/js/runtime~main.d170bb03.js.map",
+    "static/js/2.137c14e4.chunk.js": "/memorygame/static/js/2.137c14e4.chunk.js",
+    "static/js/2.137c14e4.chunk.js.map": "/memorygame/static/js/2.137c14e4.chunk.js.map",
+    "index.html": "/memorygame/index.html",
+    "precache-manifest.426da908607aff783bd52f30e193e139.js": "/memorygame/precache-manifest.426da908607aff783bd52f30e193e139.js",
+    "service-worker.js": "/memorygame/service-worker.js",
+    "static/css/main.5cb0c22a.chunk.css.map": "/memorygame/static/css/main.5cb0c22a.chunk.css.map",
+    "static/media/Frieza.png": "/memorygame/static/media/Frieza.d32807fb.png",
+    "static/media/Son_Gohan.png": "/memorygame/static/media/Son_Gohan.645cfc37.png",
+    "static/media/Vegeta_DBZ.png": "/memorygame/static/media/Vegeta_DBZ.cfe7289e.png",
+    "static/media/goku.png": "/memorygame/static/media/goku.add47418.png",
+    "static/media/gokukid.png": "/memorygame/static/media/gokukid.6982b4d6.png",
+    "static/media/goten.png": "/memorygame/static/media/goten.d88e6693.png",
+    "static/media/index.css": "/memorygame/static/media/kameHouse.acadba44.jpg",
+    "static/media/trunks.png": "/memorygame/static/media/trunks.b012b2d0.png"
+  }
+}
