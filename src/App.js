@@ -1,26 +1,28 @@
 import React from 'react';
-import logo from './logo.svg';
+import Vegeta from "./components/Vegeta.js"; 
+import Goku from "./components/Goku";
+import Goten from "./components/Goten";
+import Frieza from "./components/Frieza";
+import Trunks from "./components/Trunks";
+import GokuKid from "./components/GokuKid";
+import Gohan from "./components/Gohan";
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+    <div className="row"></div>
+      <div className="row">
+      <Vegeta />
+      <Goku />
+      <Gohan />
+      <Goten />
+      <Frieza />
+      <Trunks />
+      <GokuKid />
+      </div>
     </div>
   );
-}
+};
 
 export default App;
