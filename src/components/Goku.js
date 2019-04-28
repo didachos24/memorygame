@@ -6,7 +6,7 @@ import '../App.css';
 function Goku() {
   return (
     <div>
-        <img  className="Image" src={goku} alt="Goku"/>
+        <img  className="Image" src={goku} alt="Goku" data-micron="pop"/>
     </div>
   );
 }

@@ -6,7 +6,7 @@ import '../App.css';
 function Trunks() {
   return (
     <div>
-        <img  className="Image" src={trunks} alt="Trunks" />
+        <img  className="Image" src={trunks} alt="Trunks" data-micron="pop"/>
     </div>
   );
 }

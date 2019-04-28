@@ -6,7 +6,7 @@ import '../App.css';
 function Frieza() {
   return (
     <div>
-        <img  className="Image" src={frieza} alt="Frieza" />
+        <img  className="Image" src={frieza} alt="Frieza" data-micron="pop"/>
     </div>
   );
 }

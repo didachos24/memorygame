@@ -1,11 +1,31 @@
 .Image {
-  width: 9em;
-  height: 11rem;
-  display: inline;
-  padding: 1rem;
+  width: 10em;
+  height: 13em;
+  padding: 2em;
 }
 
-.Par {
-  color: red;
+h2, h5{
+  align-content: center;
+  text-align: center;
+  font-family: 'Coming Soon', cursive;
+}
+
+h1 {
+  font-family: 'Catamaran', sans-serif;
+  color: #ff6600
+}
+
+.navimg {
+  align-content: center;
+  text-align: center;
+  background-color: #ffcc00;
+}
+
+.house {
+  background-image: url('./components/images/kameHouse.jpg');
+  box-shadow: 5px 5px 20px #e65c00;
+  background-size: 100%;
+  align-content: center;
+  text-align: center
 }
 

@@ -6,7 +6,7 @@ import '../App.css';
 function Goten() {
   return (
     <div>
-        <img  className="Image" src={goten} alt="Goten" />
+        <img  className="Image" src={goten} alt="Goten" data-micron="pop"/>
     </div>
   );
 }

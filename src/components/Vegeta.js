@@ -6,7 +6,7 @@ import '../App.css';
 function Vegeta() {
   return (
     <div>
-        <img  className="Image" src={vegeta} alt="Vegeta"/>
+        <img  className="Image" src={vegeta} alt="Vegeta" data-micron="pop"/>
     </div>
   );
 }
